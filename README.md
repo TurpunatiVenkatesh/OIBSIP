@@ -4,8 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Status](https://img.shields.io/badge/Tasks%20Completed-1%20of%203-orange)
 
-Welcome! This repository holds all my task submissions for the **Oasishttps://www.linkedin.com/in/turpunati-venkatesh-440b3b301?utm_source=share_via&utm_content=profile&utm_medium=member_android Infobyte SIP** (Data Analytics track). Each task is in its own folder with the notebook, dataset, README and screenshots.
-
+Welcome! This repository holds all my task submissions for the **Oasis Infobyte Internship Program ** (Data Analytics track). Each task is in its own folder with the notebook, dataset, README and screenshots.
 ---
 
 ## 👤 About Me
