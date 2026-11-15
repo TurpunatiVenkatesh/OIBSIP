@@ -118,8 +118,8 @@ Run **Kernel → Restart & Run All**. Keep `amazon.csv` in the same folder as th
 Data auditing · type conversion · missing-value imputation · de-duplication · feature engineering · outlier analysis (IQR) · data validation · exploratory visualisation · technical documentation
 
 ## 👤 Author
-**[Your Full Name]**
+**[Turpunati Venkatesh]**
 Data Analytics Intern, Oasis Infobyte
-🔗 [LinkedIn](paste-your-linkedin-link) · 🔗 [GitHub](https://github.com/TurpunatiVenkatesh)
+🔗 [LinkedIn](https://www.linkedin.com/in/turpunati-venkatesh-440b3b301?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 🔗 [GitHub](https://github.com/TurpunatiVenkatesh)
 
 #oasisinfobyte #dataanalytics #python #datacleaning
